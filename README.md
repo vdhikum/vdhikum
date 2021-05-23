@@ -1,4 +1,4 @@
-<img src="https://github.com/dhirukr/dhirukr/blob/main/background.png"/>
+<img src="https://github.com/vdhikum/vdhikum/blob/main/background.png"/>
  <hr></hr>
 <p align="center">
   <samp>
