@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**vdhikum/vdhikum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/dhirukr/dhirukr/blob/main/background.png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Dhirendra Kumar👋 <br>
+    🔥 Full Stack .NET Developer  <br>
+    :sparkles: Favorite Tech: Angular, Azure, .NET Core ... <br>
+    :notebook: I’m currently learning GraphQL 😭  <br>
+    :email:	vdhikum@outlook.com <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/vdhikum/ <br>
+    💼: Twitter: https://twitter.com/vdhikum <br>
+    🉑:Resume: https://github.com/vdhikum/vdhikum/blob/main/DHIRENDRA.pdf
+  </samp>
+</p>
